@@ -29,5 +29,5 @@ A Laravel-based system to manage parking/unparking of vehicles with admin and at
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/parking-system.git
+git clone https://github.com/kolturkiran/parking-system.git
 cd parking-system
